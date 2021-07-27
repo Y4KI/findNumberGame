@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
+body {
+    background-image: url('back.png');
+    background-size: cover;    
+}
+.game {
+    margin-top: 10%;
+}
+.game-controller {
+    font-size: 70px;
+    color: white !important;
+    text-shadow: 2px 2px 5px blue;
+}
+.game-play__form button {
+    padding: 5px 20px;
+    border: none;
+    border-radius: 50px;
+    font-size: 18px;
+    color: rgb(114, 0, 114);
+    font-weight: 500;
+    background-color: rgb(75, 236, 75);
+    box-shadow: 3px 8px 20px 5px rgb(75, 236, 75);
+}
+.game-status_title {
+    text-shadow: 2px 2px 5px blue;
+    font-size: 50px;
+}
+.game-play-input {
+    border: none;
+    border-radius: 50px;
+    outline: none;
+    padding: 10px 25px;
+    background-color: rgba(195, 255, 0, 0.952);
+    box-shadow: 3px 8px 20px 5px rgba(195, 255, 0, 0.952);
+}
