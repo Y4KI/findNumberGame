@@ -74,7 +74,7 @@ export default function Game() {
                           ref={inputRef}
                           className="game-play-input my-2"
                           />
-                        <button onClick={checkGame} className="btn-white">Check</button>
+                        <button onClick={checkGame} className="btn-white">Tekshirish</button>
                     </form>
                 </div>
             </div>
