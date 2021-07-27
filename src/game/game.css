@@ -7,7 +7,7 @@ body {
     margin-top: 10%;
 }
 .game-controller {
-    font-size: 70px;
+    font-size: 40px;
     color: white !important;
     text-shadow: 2px 2px 5px blue;
 }
@@ -23,7 +23,7 @@ body {
 }
 .game-status_title {
     text-shadow: 2px 2px 5px blue;
-    font-size: 50px;
+    font-size: 70px;
 }
 .game-play-input {
     border: none;
